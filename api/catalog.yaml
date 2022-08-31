@@ -10,6 +10,7 @@ projects:
         - master
         - develop
         - release/(.*)
+      # Uncomment and adapt the following lines to your project-specific tags
       # tags:
       #   - support
       #   - release/(.*)
